@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOT23.dra                                     )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Apr 19 19:36:53 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/IMLab_Git/IMLAB_PCB/AllegroLib/Packages/Chips
+    Name      = sot23.psm
+    User      = ycyhd
+    Machine   = DESKTOP-UK3BTFG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

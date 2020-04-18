@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TO252.dra                                     )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sat Apr 07 15:16:27 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/IMLab_Git/IMLAB_PCB/AllegroLib/Packages/Chips
+    Name      = to252.psm
+    User      = ycyhd
+    Machine   = DESKTOP-UK3BTFG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

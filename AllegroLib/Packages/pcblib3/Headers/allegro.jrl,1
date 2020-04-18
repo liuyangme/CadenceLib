@@ -1,0 +1,17 @@
+\t (00:00:01) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:01)     Journal start - Sat May 05 15:06:33 2018
+\t (00:00:01)         Host=DESKTOP-UK3BTFG User=ycyhd Pid=1488 CPUs=8
+\t (00:00:01) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe F:\IMLab_Git\IMLAB_PCB\AllegroLib\Packages\Headers\HEADER2X1.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: F:/IMLab_Git/IMLAB_PCB/AllegroLib/Packages/Headers/HEADER2X1.dra
+\i (00:00:03) trapsize 1592
+\i (00:00:03) trapsize 1445
+\i (00:00:03) trapsize 1608
+\i (00:00:03) trapsize 1449
+\i (00:00:03) trapsize 998
+\i (00:00:03) trapsize 998
+\i (00:00:04) generaledit 
+\i (00:00:19) exit 
+\t (00:00:19)     Journal end - Sat May 05 15:06:51 2018

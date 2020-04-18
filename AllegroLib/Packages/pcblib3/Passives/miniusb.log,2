@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MiniUSB.dra                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Nov 02 19:07:12 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/IMLab_Git/AllegroLib/Packages/Common
+    Name      = miniusb.psm
+    User      = Dawn
+    Machine   = DESKTOP-9H8V99M
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAPAE660.dra                                  )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Nov 02 21:09:37 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/IMLab_Git/AllegroLib/Packages/Chips
+    Name      = capae660.psm
+    User      = Dawn
+    Machine   = DESKTOP-9H8V99M
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

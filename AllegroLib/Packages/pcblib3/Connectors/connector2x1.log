@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONNECTOR2X1.dra                              )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Apr 19 22:44:16 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/IMLab_Git/IMLAB_PCB/AllegroLib/Packages/Connectors
+    Name      = connector2x1.psm
+    User      = ycyhd
+    Machine   = DESKTOP-UK3BTFG
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

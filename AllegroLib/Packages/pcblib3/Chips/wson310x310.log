@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : WSON310X310.dra                               )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Nov 06 22:34:49 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/IMLab_Git/AllegroLib/Packages/Chips
+    Name      = wson310x310.psm
+    User      = Dawn
+    Machine   = DESKTOP-9H8V99M
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
