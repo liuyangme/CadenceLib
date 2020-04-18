@@ -1,2 +1,0 @@
-verilog.v
-vhdl.vhd
